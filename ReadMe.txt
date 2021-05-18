@@ -15,6 +15,5 @@ One thing that I could not figure out was how to make the space between the "car
 the moment, you cannot scroll when you initially place your finger there. You have to touch the "cards"
 in order to scroll. I think it may just be how flatlist works. 
 
-Nothing to my knowledge will break the app.
-
+Test the app in the Expo app by following this link:
 https://expo.io/@davidhermosillo/projects/movieBrowser
